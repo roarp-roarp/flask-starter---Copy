@@ -1,0 +1,35 @@
+.form-control {
+    display: inline-block;
+    width: 30%;
+    margin-bottom: 15px;
+}
+
+.btn {
+    padding: .35rem .75rem;
+    margin-top: -4.5px;
+}
+
+.text-center {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.navbar {
+    padding: 1rem 1rem;
+    background-color: rgb(#526ea3);
+}
+
+.table {
+    background-color: #6f82a5;
+}
+.nav-header > a {
+    color: white;
+    font-weight: bolder;
+    font-family: "Arial Black", Gadget, sans-serif;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+body {
+    background-color: #AFC3DD
+}
